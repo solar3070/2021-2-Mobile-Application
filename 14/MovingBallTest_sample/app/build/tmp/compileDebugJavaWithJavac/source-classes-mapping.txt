@@ -1,0 +1,5 @@
+mobile/example/movingballtest/MainActivity.java
+ mobile.example.movingballtest.MainActivity
+ mobile.example.movingballtest.MainActivity$BallView
+mobile/example/movingballtest/BuildConfig.java
+ mobile.example.movingballtest.BuildConfig

@@ -1,0 +1,4 @@
+#Sun Dec 12 19:53:55 KST 2021
+base.0=C\:\\mobile\\14\\SensorBasicTest_sample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="mobile.example.alarmtest"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="16"
+8-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="29" />
+9-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:7:15-44
+10
+11    <application
+11-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:9:5-26:19
+12        android:allowBackup="true"
+12-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:10:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\82109\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:11:9-45
+16        android:label="@string/app_name"
+16-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:12:9-41
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:13:9-40
+19        <activity
+19-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:14:9-22:20
+20            android:name="mobile.example.alarmtest.MainActivity"
+20-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:15:13-41
+21            android:label="@string/app_name" >
+21-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:16:13-45
+22            <intent-filter>
+22-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:17:13-21:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:18:17-69
+23-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:18:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:20:17-77
+25-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:20:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity android:name="mobile.example.alarmtest.NotiActivity" />
+28-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:23:9-50
+28-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:23:19-47
+29
+30        <receiver android:name="mobile.example.alarmtest.MyBroadcastReceiver" />
+30-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:24:3-51
+30-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:24:13-48
+31        <receiver android:name="mobile.example.alarmtest.RepeatReceiver" />
+31-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:25:9-52
+31-->C:\mobile\09\AlarmTest\app\src\main\AndroidManifest.xml:25:19-49
+32    </application>
+33
+34</manifest>

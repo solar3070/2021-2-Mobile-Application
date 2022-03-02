@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\mobile\\09\\AlarmTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\mobile\\09\\AlarmTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\mobile\\09\\AlarmTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\mobile\\09\\AlarmTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\mobile\\09\\AlarmTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\mobile\\09\\AlarmTest\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\mobile\\09\\AlarmTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_noti.xml.flat",
+        "source": "C:\\mobile\\09\\AlarmTest\\app\\src\\main\\res\\layout\\activity_noti.xml"
+    },
+    {
+        "merged": "C:\\mobile\\09\\AlarmTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\mobile\\09\\AlarmTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\mobile\\09\\AlarmTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_alarm_test.xml.flat",
+        "source": "C:\\mobile\\09\\AlarmTest\\app\\src\\main\\res\\layout\\activity_alarm_test.xml"
+    }
+]
